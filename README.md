@@ -6,7 +6,7 @@ Demo project for springboot message consumer using [rabbitMQ](https://www.rabbit
 
 RabbitMQ is one of the most popular open source message brokers.
 
-![kafka producer service](https://github.com/arsibux/springboot-rabbitMQ-producer/blob/main/draw_io/rabbit-producer.drawio.png "kafka producer service")
+![rabbitMQ producer service](https://github.com/arsibux/springboot-rabbitMQ-producer/blob/main/draw_io/rabbitmq-producer.drawio.png "rabbitMQ producer service")
 
 ## Installation
 
@@ -21,10 +21,10 @@ RabbitMQ is one of the most popular open source message brokers.
 
 You can see the message here at terminal.
 
-![postman-api-call](https://github.com/arsibux/springboot-rabbitMQ-producer/blob/main/docs/img/verify.png "postman-api-call")
+![terminal](https://github.com/arsibux/springboot-rabbitMQ-producer/blob/main/docs/img/terminal.png "terminal")
 
 
 ## Resources
 
-* [Spring Cloud Apache Kafka](https://spring.io/projects/spring-kafka#overview)
-* [Apache Kafka with Spring](https://www.baeldung.com/spring-kafka)
+* [Spring AMQP](https://spring.io/projects/spring-amqp#overview)
+* [Messaging with Spring AMQP](https://www.baeldung.com/spring-amqp)
